@@ -6,3 +6,6 @@ all i did was clicked on branch and fork to get to this point hope it works when
 
 OMG it all worked, how exciting. I managed to merge your work into the original, used a pull request and am typing this on my computer :-)
 Good work Brodie!!!!
+
+well we are getting there, we have a text file we can edit we should take the next step and add a html file to edit but as i said we need to set permissions so we can upload files for the html pade eg: photos. 
+ggz hope you going well on you ass 1 :)
